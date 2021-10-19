@@ -3,7 +3,7 @@
         <div class="col-md-9">
             <div class="row padding-y">
                 @foreach($products as $product)
-                <div class="col-md-3">
+                <div class="col-md-4">
                     <figure class="card card-product-grid">
                         <div class="row">
                             <div class="col-md-12 col-5 p-r-0 center-responsive">
